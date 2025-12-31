@@ -29,7 +29,7 @@ This tool downloads text, audio, and visual content from your Instagram saved co
     pip install -r requirements.txt
     ```
 2.  **Prepare Data**:
-    *   Export your saved posts from Instagram ("Your Information" -> "Saved").
+    *   Export your saved posts from Instagram. https://accountscenter.instagram.com/info_and_permissions/dyi/ Use JSON format
     *   Place `saved_posts.json` (or `saved_collections.json`) in the project root.
     *   *Note: Supports `saved_saved_media` and `saved_saved_collections` formats.*
 
