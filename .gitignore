@@ -1,0 +1,8 @@
+# --- virtual environment -------------------------------------------------
+venv/
+data/
+src/__pycache__/
+
+
+# --- secrets / local config ---------------------------------------------
+saved_collections.json

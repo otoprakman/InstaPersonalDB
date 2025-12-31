@@ -1,0 +1,16 @@
+instaloader
+faster-whisper
+silero-vad
+easyocr
+chromadb
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-openai
+openai
+opencv-python-headless
+torch
+sentence-transformers
+Pillow
+numpy
