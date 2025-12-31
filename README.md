@@ -60,3 +60,10 @@ streamlit run app.py
 -   **Ollama Connection Error**: Make sure Ollama is installed and running (`ollama serve`).
 -   **Download Issues**: Private posts or rate limits may affect downloads. This tool works best with public posts or existing cookies (requires code modification for authentication). You can run multiple times if some posts are missing because of the rate limits.
 
+## Screenshots
+![RAG Interface](ss1.png)
+*The main interface with AI settings and Pipeline controls.*
+
+![Search Results](ss2.png)
+*Example search results showing the AI Summary and Retrieved Posts.*
+
