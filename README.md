@@ -1,6 +1,6 @@
 # Instagram Personal RAG
 
-A powerful, multimodal RAG (Retrieval-Augmented Generation) system for your saved Instagram posts. 
+A multimodal RAG (Retrieval-Augmented Generation) system for your saved Instagram posts. 
 This tool downloads text, audio, and visual content from your Instagram saved collection and makes it fully searchable using natural language.
 ⚠️ Important Disclaimers:
     Use at Your Own Risk: This tool automates the downloading of content from Instagram. This behavior may violate Instagram's Terms of Service. Extensive use could lead to IP bans, rate limiting, or account restrictions. The creator of this repository is not responsible for any actions taken against your account.
